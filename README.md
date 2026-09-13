@@ -1,7 +1,7 @@
 # A Jar by group1
 
 By: 
-GOH WEI JING
+GOH WEI JING &
 DANIEL LIM CABREROS
 
 Problem Statement: Stress & Workload Manager
