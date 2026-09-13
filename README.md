@@ -6,7 +6,7 @@ DANIEL LIM CABREROS
 
 Problem Statement: Stress & Workload Manager
 
-Video Presentation: [TODO: Unlisted Youtube Link]
+Video Presentation: https://youtu.be/uqh4Kg0Lxwo
 
 Presentation Slides: https://mmuedumy-my.sharepoint.com/:p:/g/personal/goh_wei_jing_student_mmu_edu_my/IQBZvKudRaWRQ5WnbKnbwcbdARmegJ0MbKAAjU9Ewp7q2MY?e=2H0N9c
 
