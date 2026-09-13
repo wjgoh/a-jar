@@ -85,16 +85,16 @@ The core never changed: see how full your week is, fix it in one tap. What chang
 
 ### 2.3 Ideation Boards
 
-![Problem tree](docs/img/problem-tree.png)
+<img src="docs/img/problem-tree.png" width="700" alt="Problem tree" />
 
 _Problem tree: burnout as a five-load pile-up; calendars show time, to-dos shame,
 rest feels guilty — nothing shows load. The gap funnels into the jar insight._
 
-![Mindmap](docs/img/mindmap.png)
+<img src="docs/img/mindmap.png" width="700" alt="Mindmap" />
 
 _Mindmap: why students burn out, what the jar is (one number + one sentence + one fix), who Maya is, how it works, now vs later._
 
-![User flow](docs/img/user-flow.png)
+<img src="docs/img/user-flow.png" width="300" alt="User flow" />
 
 _User flow: open Today at 94% → read why → extra shift lands → Fix My Day → Accept → calmer 71% → evening check-in._
 
@@ -110,31 +110,31 @@ _User flow: open Today at 94% → read why → extra shift lands → Fix My Day 
 
 UI Prototype: https://a-jar.vercel.app/
 
-![Today — jar hero](docs/img/screen-today.png)
+<img src="docs/img/screen-today.png" width="270" alt="Today — jar hero" />
 
 _Cold load: 94% FULL, heaviest mental, why-sentence. Tapping the card expands the
 math receipt (2h study = 40, 6h shift = 30, −drawing, fried yesterday)._
 
-![Fix sheet](docs/img/screen-fix.png)
+<img src="docs/img/screen-fix.png" width="270" alt="Fix sheet" />
 
 _Bottom sheet: reason plus before/after bars (94% red → 71% orange), the two
 moves, the kept refill. Accept is the single primary action._
 
-![Fixed state](docs/img/screen-fixed.png)
+<img src="docs/img/screen-fixed.png" width="270" alt="Fixed state" />
 
 _After Accept: number tweens 94→71 with a liquid splash, banner gone, essay on
 Wed, laundry on Fri, drawing kept, Undo pill counting down from 10s._
 
-![Week planner](docs/img/screen-week.png)
+<img src="docs/img/screen-week.png" width="270" alt="Week planner" />
 
 _Legend (fixed / movable / refill) on top; Tue flagged red with the Split button
 on the essay; dashed green slots glow while a block is picked up._
 
-![Split sheet](docs/img/screen-split.png)
+<img src="docs/img/screen-split.png" width="270" alt="Split sheet" />
 
 _Essay spreads to outline Mon, draft Wed, polish Thu — one "Spread it" tap._
 
-![Dots proof](docs/img/screen-dots.png)
+<img src="docs/img/screen-dots.png" width="270" alt="Dots proof" />
 
 _Legend (ring = morning, fill = night, hollow = skipped), live week with
 morning/night log buttons, 2-week history with proof captions._
