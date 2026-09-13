@@ -1,6 +1,6 @@
 # A Jar by group1
 
-By: 
+By:
 GOH WEI JING &
 DANIEL LIM CABREROS
 
@@ -8,7 +8,9 @@ Problem Statement: Stress & Workload Manager
 
 Video Presentation: [TODO: Unlisted Youtube Link]
 
-Presentation Slides: [TODO: Public Link]
+Presentation Slides: https://mmuedumy-my.sharepoint.com/:p:/g/personal/goh_wei_jing_student_mmu_edu_my/IQBZvKudRaWRQ5WnbKnbwcbdARmegJ0MbKAAjU9Ewp7q2MY?e=2H0N9c
+
+Prototype Link: https://a-jar.vercel.app/
 
 ---
 
@@ -98,15 +100,15 @@ _User flow: open Today at 94% → read why → extra shift lands → Fix My Day 
 
 ### 2.4 Mentor Consultation
 
-| Date   | Mentor | Feedback Received | What Was Changed |
-| ------ | ------ | ----------------- | ---------------- |
-| 13 September 2026 | Jia Quan Khor | Jia Quan told us on how to explain our presentationn properly, letting the judges know our ideas and how to make things interesting. He also let us know how the ideas is the most important thing in a Hackathon presentation. The architecture of the idea is crucial in a hackathon presentation.          | Made our presentation more interesting by implementing his idea.            |
+| Date              | Mentor        | Feedback Received                                                                                                                                                                                                                                                                                    | What Was Changed                                                 |
+| ----------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 13 September 2026 | Jia Quan Khor | Jia Quan told us on how to explain our presentationn properly, letting the judges know our ideas and how to make things interesting. He also let us know how the ideas is the most important thing in a Hackathon presentation. The architecture of the idea is crucial in a hackathon presentation. | Made our presentation more interesting by implementing his idea. |
 
 ---
 
 ## 3. Design & Prototype
 
-UI Prototype: [TODO: Public Link]
+UI Prototype: https://a-jar.vercel.app/
 
 ![Today — jar hero](docs/img/screen-today.png)
 
@@ -191,7 +193,3 @@ Offline single-app with no services: the data flow is `data/maya.ts` →
 - **Phase 2 (3-week building phase):** real jar sum from block weights, learned
   combo receipts from dots, SQLite persistence, EAS Android APK, local
   morning/night reminders. Same UI — no rebuild.
-
-
-
-
