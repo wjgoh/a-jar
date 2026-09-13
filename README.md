@@ -1,6 +1,6 @@
-# A Jar by Group 1
+# A Jar 
 
-Team:
+By: group1
 
 Problem Statement: Stress & Workload Manager
 
