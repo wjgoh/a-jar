@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "A Jar",
+    "slug": "a-jar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "ajar",
+    "platforms": [
+      "android",
+      "web"
+    ],
+    "newArchEnabled": true,
+    "web": {
+      "bundler": "metro"
+    },
+    "android": {
+      "package": "com.ajar.prototype"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
