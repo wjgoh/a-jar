@@ -98,8 +98,7 @@ _User flow: open Today at 94% → read why → extra shift lands → Fix My Day 
 
 | Date   | Mentor | Feedback Received | What Was Changed |
 | ------ | ------ | ----------------- | ---------------- |
-| [TODO] | [TODO] | [TODO]            | [TODO]           |
-| [TODO] | [TODO] | [TODO]            | [TODO]           |
+| 13 September 2026 | Jia Quan Khor | Jia Quan told us on how to explain our presentationn properly, letting the judges know our ideas and how to make things interesting. He also let us know how the ideas is the most important thing in a Hackathon presentation. The architecture of the idea is crucial in a hackathon presentation.          | Made our presentation more interesting by implementing his idea.            |
 
 ---
 
